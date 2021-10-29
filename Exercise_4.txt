@@ -1,0 +1,1 @@
+ALTER TABLE Player Add (MatchesPlayed NUMBER, MatchesWon NUMBER);
