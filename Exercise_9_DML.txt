@@ -1,0 +1,1 @@
+SELECT Prodid, Pdesc, Category, Discount FROM PRODUCT WHERE (Discount>5) AND (Discount<15);
