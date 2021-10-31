@@ -1,2 +1,2 @@
-SELECT Prodid, Category, Price, Discount FROM PRODUCT O
-RDER BY CATEGORY DESC, Price;
+SELECT Prodid, Category, Price, Discount FROM PRODUCT 
+ORDER BY CATEGORY DESC, Price;
