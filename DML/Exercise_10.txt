@@ -1,0 +1,5 @@
+INSERT INTO Salesman VALUES(11, 'Elizabeth', 'London');
+
+OR 
+
+INSERT INTO Salesman(SId, SName, Location) VALUES(11, 'Elizabeth', 'London');

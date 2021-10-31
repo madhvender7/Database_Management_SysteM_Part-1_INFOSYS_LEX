@@ -1,0 +1,3 @@
+UPDATE SALESMAN 
+SET SNAME='Jenny', Location =  'Bristol'
+WHERE SID =3;
