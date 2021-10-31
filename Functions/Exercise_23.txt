@@ -1,0 +1,2 @@
+SELECT PRODID, PDESC, CATEGORY FROM PRODUCT 
+WHERE Category = 'ELECTRONICS' OR Category = 'Electronics';
